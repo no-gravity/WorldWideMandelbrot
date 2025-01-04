@@ -29,3 +29,8 @@
 - live: https://jmaio.github.io/mandelbrot-maps/
   repo: https://github.com/JMaio/mandelbrot-maps
   license: GNU General Public License v3.0
+
+- live: https://www.cesoid.com/fractal
+  repo: None
+  license: None
+  info: https://www.reddit.com/r/fractals/comments/ou1en7/
