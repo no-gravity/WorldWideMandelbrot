@@ -1,3 +1,7 @@
 - demo: https://mandeljs.hgreer.com
   repo: https://github.com/HastingsGreer/mandeljs
   license: None
+
+- demo: https://fracvizzy.com
+  repo: https://github.com/dwaltrip/frac-vizzy
+  license: None
