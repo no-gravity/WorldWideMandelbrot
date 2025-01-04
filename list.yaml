@@ -25,3 +25,7 @@
 - live: https://mandelbrot.site
   repo: https://github.com/rosslh/mandelbrot.site
   license: MIT License
+
+- live: https://jmaio.github.io/mandelbrot-maps/
+  repo: https://github.com/JMaio/mandelbrot-maps
+  license: GNU General Public License v3.0
