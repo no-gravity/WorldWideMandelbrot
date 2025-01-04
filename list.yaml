@@ -5,3 +5,7 @@
 - demo: https://fracvizzy.com
   repo: https://github.com/dwaltrip/frac-vizzy
   license: None
+
+- demo: https://rockingship.github.io/jsFractalZoom/jsFractalZoom.html
+  repo: https://github.com/RockingShip/jsFractalZoom
+  license: GNU Affero General Public License v3.0
