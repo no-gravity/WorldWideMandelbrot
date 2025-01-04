@@ -9,3 +9,7 @@
 - demo: https://rockingship.github.io/jsFractalZoom/jsFractalZoom.html
   repo: https://github.com/RockingShip/jsFractalZoom
   license: GNU Affero General Public License v3.0
+
+- demo: https://xaos-project.github.io/XaoSjs/
+  repo: https://github.com/xaos-project/XaoSjs
+  license: GNU General Public License >=3
