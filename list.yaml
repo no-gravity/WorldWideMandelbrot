@@ -1,23 +1,23 @@
-- demo: https://mandeljs.hgreer.com
+- live: https://mandeljs.hgreer.com
   repo: https://github.com/HastingsGreer/mandeljs
   license: None
 
-- demo: https://fracvizzy.com
+- live: https://fracvizzy.com
   repo: https://github.com/dwaltrip/frac-vizzy
   license: None
 
-- demo: https://rockingship.github.io/jsFractalZoom/jsFractalZoom.html
+- live: https://rockingship.github.io/jsFractalZoom/jsFractalZoom.html
   repo: https://github.com/RockingShip/jsFractalZoom
   license: GNU Affero General Public License v3.0
 
-- demo: https://xaos-project.github.io/XaoSjs/
+- live: https://xaos-project.github.io/XaoSjs/
   repo: https://github.com/xaos-project/XaoSjs
   license: GNU General Public License >=3
 
-- demo: https://mandelbrot.silversky.dev
+- live: https://mandelbrot.silversky.dev
   repo: None
   license: None
 
-- demo: https://mandel.gart.nz/
+- live: https://mandel.gart.nz/
   repo: None
   license: None
