@@ -1,6 +1,6 @@
 - live: https://mandeljs.hgreer.com
   repo: https://github.com/HastingsGreer/mandeljs
-  license: None
+  license: MIT License
 
 - live: https://fracvizzy.com
   repo: https://github.com/dwaltrip/frac-vizzy
@@ -34,3 +34,12 @@
   repo: None
   license: None
   info: https://www.reddit.com/r/fractals/comments/ou1en7/
+
+- live: https://fraktaler.mathr.co.uk/live/latest/
+  repo: https://fraktaler.mathr.co.uk/download/latest/
+  license: GNU Affero General Public License v3.0
+  info: https://fraktaler.mathr.co.uk
+
+
+
+
