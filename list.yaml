@@ -40,6 +40,6 @@
   license: GNU Affero General Public License v3.0
   info: https://fraktaler.mathr.co.uk
 
-
-
-
+- live: https://panzi.github.io/webgl-mandelbrot/
+  repo: https://github.com/panzi/webgl-mandelbrot
+  license: None
