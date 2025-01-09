@@ -43,3 +43,9 @@
 - live: https://panzi.github.io/webgl-mandelbrot/
   repo: https://github.com/panzi/webgl-mandelbrot
   license: AGPL-3.0
+
+- live: https://philthompson.me/very-plotter/
+  repo: https://github.com/philthompson/visualize-primes
+  info: https://philthompson.me/2021/The-Mandelbrot-set-on-Very-Plotter.html
+  gallery: https://philthompson.me/mandelbrot-gallery/
+  license: MIT
