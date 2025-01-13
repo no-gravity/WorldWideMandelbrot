@@ -49,3 +49,7 @@
   info: https://philthompson.me/2021/The-Mandelbrot-set-on-Very-Plotter.html
   gallery: https://philthompson.me/mandelbrot-gallery/
   license: MIT
+
+- live: https://oliverkovacs.dev/demos/mandelbrot/
+  repo: https://github.com/OliverKovacs/mandelbrot-webgl
+  license: MIT License
